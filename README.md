@@ -1,8 +1,6 @@
 # one-arena-2022
 
-PID using vision camera to centralise/move to target. IR sensor to fine tune position relative to target
+Team Blank. B Code for NTU OneArena 2022. The team achieved 1st place in the competition. 
 
-Sidenote: we got first owo
+[More details/News Article](https://www.straitstimes.com/singapore/parenting-education/anglo-chinese-school-independent-emerges-victorious-in-robotics-challenge)
 
-Look ma, we made it to the news :O
-https://www.straitstimes.com/singapore/parenting-education/anglo-chinese-school-independent-emerges-victorious-in-robotics-challenge
